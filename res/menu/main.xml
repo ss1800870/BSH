@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+>
+	<item
+		android:id="@+id/open"
+		android:title="@string/open"
+        android:orderInCategory="100" 
+		android:gravity="center_horizontal"
+		/>
+    <item
+		android:id="@+id/run"
+		android:title="@string/run"
+        android:orderInCategory="100"
+		android:gravity="center_horizontal"
+		/>
+	<item
+		android:id="@+id/exit"
+		android:title="@string/exit"
+        android:orderInCategory="100"
+		android:gravity="center_horizontal"
+		/>
+</menu>

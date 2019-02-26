@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">BSH</string>
+	<string name="run">Выполнить</string>
+	<string name="home">Домой</string>
+	<string name="open">Открыть</string>
+	<string name="copy">Копировать</string>
+	<string name="paste">Вставить</string>
+	<string name="delete">Удалить</string>
+	<string name="rename">Переименовать</string>
+	<string name="create">Создать</string>
+	<string name="build">Собрать</string>
+	<string name="exit">Выход</string>
+	<string name="enter_name">Введите имя:</string>
+	<string name="copy_ok">Скопировано!</string>
+	<string name="folder">Папка</string>
+	<string name="file">Файл</string>
+	<string name="unpack">Распаковать</string>
+	<string name="pack">Запаковать</string>
+	<string name="del_folder_ok">удалена!</string>
+	<string name="del_file_ok">удален!</string>
+	<string name="manifest_nonexists">Файл AndroidManifest.xml отсутствует...</string>
+	<string name="wait">Подождите...\nВыполняется предыдущий процесс...\nИли два раза быстро кликните по кнопке |****|BACK|****|...\n</string>
+	<string name="access">Random Image display, sorry :(</string>
+	<string name="help">Помощь</string>
+</resources>

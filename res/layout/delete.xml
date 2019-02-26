@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:background="#FFFFFFFF" >
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:orientation="vertical" >
+		
+		<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:gravity="center"
+			android:padding="50dp"
+			android:orientation="horizontal" >
+
+			<Button 
+				android:id="@+id/yes" 
+				android:layout_width="100dp"
+				android:layout_height="50dp"
+				android:text="Да"
+			/>
+
+			<Button 
+				android:id="@+id/no" 
+				android:layout_width="100dp"
+				android:layout_height="50dp"
+				android:text="Нет"
+			/>
+
+		</LinearLayout>
+	</LinearLayout>
+
+</ScrollView>
